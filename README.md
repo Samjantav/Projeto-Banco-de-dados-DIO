@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)]()
 
 ## 📝 Descrição do Projeto
-Este projeto consiste no refinamento de um modelo de banco de dados para um sistema de E-commerce. O objetivo principal foi aplicar conceitos avançados de modelagem, como **Especialização (Herança)**, gestão de múltiplas formas de pagamento e controle logístico de entregas.
+O objetivo principal foi aplicar conceitos avançados de modelagem, como **Especialização (Herança)**, gestão de múltiplas formas de pagamento e controle logístico de entregas.
 
 O desafio faz parte da formação de Banco de Dados da DIO, focando na transição do modelo conceitual para o lógico.
 
