@@ -37,7 +37,6 @@ Para tornar o sistema mais robusto e próximo da realidade de grandes players do
 
 ## 📁 Estrutura do Repositório
 - `/sql`: Contém os scripts de criação do banco de dados (`creation.sql`) e inserção de dados.
-- `/diagramas`: Contém o arquivo do modelo conceitual/lógico.
 - `README.md`: Documentação principal do projeto.
 
 ---
